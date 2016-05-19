@@ -1,0 +1,18 @@
+//
+//  BeautifyFace.pch
+//  BeautifyFace
+//
+//  Created by ClaudeLi on 16/5/19.
+//  Copyright © 2016年 ClaudeLi. All rights reserved.
+//
+
+#ifndef BeautifyFace_pch
+#define BeautifyFace_pch
+
+#import <GPUImage.h>
+
+#define KScreenWidth        [UIScreen mainScreen].bounds.size.width
+#define KScreenHeight       [UIScreen mainScreen].bounds.size.height
+
+
+#endif /* BeautifyFace_pch */
