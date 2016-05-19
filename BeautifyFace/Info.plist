@@ -22,10 +22,10 @@
 	<array>
 		<dict>
 			<key>CFBundleURLName</key>
-			<string>com.tiaooo.aaron</string>
+			<string>com.claudeli.demo</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>iOSTiaooo</string>
+				<string>iOSClaudeLi</string>
 			</array>
 		</dict>
 	</array>
