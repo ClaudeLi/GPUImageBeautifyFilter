@@ -1,0 +1,23 @@
+PODS:
+  - GPUImage (0.1.7)
+  - GPUImageBeautifyFilter (0.1.0):
+    - GPUImage
+
+DEPENDENCIES:
+  - GPUImageBeautifyFilter (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - GPUImage
+
+EXTERNAL SOURCES:
+  GPUImageBeautifyFilter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  GPUImageBeautifyFilter: 396e300f5782ab8044c874a2ee5bde61279f2bae
+
+PODFILE CHECKSUM: 5db8aa422fe15d0edc37627f271c9ad9de466359
+
+COCOAPODS: 1.5.3
